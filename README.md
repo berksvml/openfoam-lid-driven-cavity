@@ -729,7 +729,7 @@ Possible extensions of this project include:
 
 ## Author
 
-**Berks VML**
+**Berksvml**
 
 Aerospace Engineer
 
